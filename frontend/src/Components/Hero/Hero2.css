@@ -77,7 +77,7 @@
     line-height: 1.3em;
 }
 .carousel .list .item .topic{
-    color: #f1683a;
+    color: #3ae2f1;
 }
 .carousel .list .item .buttons{
     display: grid;
@@ -264,7 +264,7 @@
     z-index: 1000;
     width: 0%;
     height: 3px;
-    background-color: #f1683a;
+    background-color: #6ad5f3;
     left: 0;
     top: 0;
 }
